@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Vote</string>
+    <string name="text1">Vote Please</string>
+    <string name="name">Name :</string>
+    <string name="id">ID :</string>
+    <string name="textid">write your id</string>
+    <string name="textname">write your name</string>
+    <string name="message">choose candidate</string>
+    <string-array name="Candidates">
+        <item>choose candidate</item>
+        <item>candidate 1</item>
+        <item>candidate 2</item>
+        <item>candidate 3</item>
+    </string-array>
+    <string name="vote">Vote</string>
+    <string name="toggle1">Accept</string>
+    <string name="toggle2">Refuse</string>
+    <string name="voteresults">Vote Results</string>
+
+</resources>
